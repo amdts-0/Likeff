@@ -3,5 +3,6 @@ requests
 aiohttp
 googleapis-common-protos
 pycryptodome
+gunicorn
 protobuf
 Werkzeug
